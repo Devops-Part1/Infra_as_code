@@ -1,0 +1,24 @@
+encryptionsalt:
+config:
+  aws:
+    region:  
+  AWS_REGION:  
+  VPC_CIDR:  
+  PUBLIC_CIDR:  
+  VPC_NAME:  
+  GW_NAME:  
+ 
+  CUSTOM_AMI_ID:  
+  DB_USERNAME:  
+  DB_PASSWORD:  
+  hostedZoneId:  
+  mailgunApiKey:  
+  mailgunDomain:  
+  mailgunFrom:  
+  domain_name:  
+  Ec2Key:  
+  googleproject:  
+  ServiceAcountId:  
+  gcplocation:  
+  bucketName: 
+ 
